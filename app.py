@@ -1,3 +1,9 @@
+#
+# * S-Name:		archivach-downloader
+# * Author:		Sflashy#7643 - sflashy@mail.com
+# * Date:		01/08/2021
+#
+
 import sys, re, os
 from datetime import datetime
 from uuid import uuid4
